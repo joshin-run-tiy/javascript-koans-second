@@ -165,6 +165,6 @@ function Circle(radius)
 
 
  #### ABOUTAPPLYWHATWELEARN
-- `var a = [];
+- `var a = [];`
 - imperitave - list of orders, instructions
 - functional - write a function to solve
